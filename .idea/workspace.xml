@@ -38,8 +38,10 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/gists/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="8" selection-start="383" selection-end="383" vertical-scroll-proportion="0.48622367" vertical-offset="0" max-vertical-offset="617">
-              <folding />
+            <state line="20" column="111" selection-start="383" selection-end="486" vertical-scroll-proportion="0.48622367" vertical-offset="0" max-vertical-offset="617">
+              <folding>
+                <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -784,8 +786,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/gists/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="8" selection-start="383" selection-end="383" vertical-scroll-proportion="0.48622367" vertical-offset="0" max-vertical-offset="617">
-          <folding />
+        <state line="20" column="111" selection-start="383" selection-end="486" vertical-scroll-proportion="0.48622367" vertical-offset="0" max-vertical-offset="617">
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
