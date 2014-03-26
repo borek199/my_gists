@@ -35,10 +35,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/gists/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="111" selection-start="383" selection-end="486" vertical-scroll-proportion="0.48622367" vertical-offset="0" max-vertical-offset="617">
+            <state line="20" column="111" selection-start="486" selection-end="486" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="615">
               <folding>
                 <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#!!top" expanded="true" />
               </folding>
@@ -46,10 +46,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_form.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_form.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/gists/_form.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="12" selection-start="925" selection-end="925" vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="600">
+            <state line="27" column="31" selection-start="847" selection-end="847" vertical-scroll-proportion="0.64285713" vertical-offset="0" max-vertical-offset="735">
               <folding />
             </state>
           </provider>
@@ -146,7 +146,6 @@
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/app/views/gists/new.html.erb" />
         <option value="$PROJECT_DIR$/app/views/gists/edit.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/gists/_form.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/controllers/gists_controller.rb" />
@@ -154,6 +153,7 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/gists/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/gists/_form.html.erb" />
       </list>
     </option>
   </component>
@@ -700,13 +700,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/gists/_form.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="12" selection-start="925" selection-end="925" vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="600">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/pygments.css.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="654">
@@ -786,10 +779,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/gists/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="111" selection-start="383" selection-end="486" vertical-scroll-proportion="0.48622367" vertical-offset="0" max-vertical-offset="617">
+        <state line="20" column="111" selection-start="486" selection-end="486" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="615">
           <folding>
             <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/gists/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="31" selection-start="847" selection-end="847" vertical-scroll-proportion="0.64285713" vertical-offset="0" max-vertical-offset="735">
+          <folding />
         </state>
       </provider>
     </entry>
