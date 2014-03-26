@@ -3,7 +3,6 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.3'
 
 group :development do
-  gem 'sqlite3', '1.3.8'
   gem 'quiet_assets'
 end
 
@@ -15,9 +14,9 @@ gem 'jbuilder', '~> 1.2'
 gem 'pygments.rb', '0.5.4'
 gem 'redcarpet', '3.1.1'
 gem 'will_paginate', '~> 3.0'
-gem 'sqlite3', group: [:development, :test]
 
 group :development, :test do
+  gem 'sqlite3', '1.3.8'
   gem 'rspec-rails'
 end
 
