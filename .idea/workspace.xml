@@ -46,10 +46,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_form.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_form.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/gists/_form.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="43" selection-start="572" selection-end="572" vertical-scroll-proportion="0.47619048" vertical-offset="0" max-vertical-offset="735">
+            <state line="20" column="43" selection-start="572" selection-end="572" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="735">
               <folding />
             </state>
           </provider>
@@ -73,10 +73,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="75" selection-start="539" selection-end="539" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="450">
+            <state line="14" column="14" selection-start="406" selection-end="406" vertical-scroll-proportion="0.33333334" vertical-offset="0" max-vertical-offset="630">
               <folding />
             </state>
           </provider>
@@ -146,7 +146,6 @@
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/app/views/gists/new.html.erb" />
         <option value="$PROJECT_DIR$/app/views/gists/edit.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/controllers/gists_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/gists/show.html.erb" />
@@ -154,6 +153,7 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/gists/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/gists/_form.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       </list>
     </option>
   </component>
@@ -721,13 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="75" selection-start="539" selection-end="539" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="450">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/assets/stylesheets/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1082" column="13" selection-start="14011" selection-end="14011" vertical-scroll-proportion="0.0" vertical-offset="15927" max-vertical-offset="102150">
@@ -788,7 +781,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/gists/_form.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="43" selection-start="572" selection-end="572" vertical-scroll-proportion="0.47619048" vertical-offset="0" max-vertical-offset="735">
+        <state line="20" column="43" selection-start="572" selection-end="572" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="735">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="14" selection-start="406" selection-end="406" vertical-scroll-proportion="0.33333334" vertical-offset="0" max-vertical-offset="630">
           <folding />
         </state>
       </provider>
