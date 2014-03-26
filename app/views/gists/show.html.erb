@@ -1,5 +1,9 @@
 <p id="notice"><%= notice %></p>
 
+<%= link_to 'Back', gists_path, class: "btn btn-primary" %>
+<%= link_to 'Edit', edit_gist_path(@gist), class: "btn btn-warning" %>
+<br />
+<br />
 <p>
   <strong>Lang:</strong>
   <%= @gist.lang %>
@@ -16,5 +20,7 @@
   <%= @gist.description %>
 </p>
 
-<%= link_to 'Edit', edit_gist_path(@gist) %> |
-<%= link_to 'Back', gists_path %>
+
+<%= link_to 'Back', gists_path, class: "btn btn-primary" %>
+<%= link_to 'Edit', edit_gist_path(@gist), class: "btn btn-warning" %>
+

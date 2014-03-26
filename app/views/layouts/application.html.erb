@@ -5,10 +5,20 @@
   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
   <%= csrf_meta_tags %>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 </head>
 <body>
 
-<%= yield %>
+<div>
+  <div class="container">
+    <a href="" class="btn btn-primary" role="button"> Strona główna</a>
+    <a href="https://github.com/borek199/my_gists" class="btn btn-primary">Github</a>
+  </div>
+</div>
 
+<div class="container">
+<%= yield %>
+</div>
 </body>
 </html>

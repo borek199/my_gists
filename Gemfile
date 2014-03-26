@@ -14,6 +14,8 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'pygments.rb', '0.5.4'
 gem 'redcarpet', '3.1.1'
+gem 'will_paginate', '~> 3.0'
+
 
 group :development, :test do
   gem 'rspec-rails'
