@@ -49,7 +49,7 @@
       <file leaf-file-name="_form.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/gists/_form.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="28" selection-start="557" selection-end="557" vertical-scroll-proportion="0.47619048" vertical-offset="0" max-vertical-offset="735">
+            <state line="20" column="43" selection-start="572" selection-end="572" vertical-scroll-proportion="0.47619048" vertical-offset="0" max-vertical-offset="735">
               <folding />
             </state>
           </provider>
@@ -788,7 +788,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/gists/_form.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="28" selection-start="557" selection-end="557" vertical-scroll-proportion="0.47619048" vertical-offset="0" max-vertical-offset="735">
+        <state line="20" column="43" selection-start="572" selection-end="572" vertical-scroll-proportion="0.47619048" vertical-offset="0" max-vertical-offset="735">
           <folding />
         </state>
       </provider>
