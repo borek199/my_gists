@@ -1,5 +1,6 @@
 <div class="col-lg-11">
-      <div>Description: <%= gist.description[0,30] %></div><div> Language:  <%= gist.lang %></div>
+      <div>Description: <%= gist.description[0,30] %></div>
+      <div> Language:  <%= gist.lang %></div>
       <div ><%= raw Pygments.highlight(gist.snippet[0,250], lexer: gist.lang) %></div>
 
       <div><%= link_to 'Show', gist, class: "btn btn-primary",style:"float: left;  margin-right: 10px" %>
