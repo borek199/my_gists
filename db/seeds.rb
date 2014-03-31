@@ -105,5 +105,5 @@ require 'securerandom'
 end
 ',
       :lang => "java",
-      :description => "Opis #{SecureRandom.decimal(2)}")
+      :description => "Opis #{SecureRandom.random_number}")
 end
