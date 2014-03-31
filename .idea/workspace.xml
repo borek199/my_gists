@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca6b9ce0-6b3a-4dcb-910f-fc9df8f839d5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/gists/_gist.html.erb" afterPath="$PROJECT_DIR$/app/views/gists/_gist.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/gists/index.html.erb" afterPath="$PROJECT_DIR$/app/views/gists/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/gists/index.js.erb" afterPath="$PROJECT_DIR$/app/views/gists/index.js.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/pagination.js.coffee" afterPath="$PROJECT_DIR$/app/assets/javascripts/pagination.js.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seeds.rb" afterPath="$PROJECT_DIR$/db/seeds.rb" />
     </list>
     <ignored path="my_gists.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,7 +56,16 @@
       <file leaf-file-name="pagination.js.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/pagination.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="12" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+            <state line="9" column="12" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="seeds.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="107" column="56" selection-start="2802" selection-end="2802" vertical-scroll-proportion="0.8165138" vertical-offset="1071" max-vertical-offset="1725">
               <folding />
             </state>
           </provider>
@@ -100,15 +107,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="1" selection-start="694" selection-end="694" vertical-scroll-proportion="0.40366971" vertical-offset="66" max-vertical-offset="720">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="application_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -143,13 +141,11 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/jquery.inview.min.js" />
         <option value="$PROJECT_DIR$/app/views/shared/_gists.html.haml" />
         <option value="$PROJECT_DIR$/app/views/gists/_gists.erb" />
-        <option value="$PROJECT_DIR$/db/seeds.rb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/index.js.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/gists.js.coffee" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css.scss" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/pagination.js.coffee" />
         <option value="$PROJECT_DIR$/app/controllers/gists_controller.rb" />
         <option value="$PROJECT_DIR$/app/models/gist.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
@@ -157,6 +153,8 @@
         <option value="$PROJECT_DIR$/app/views/gists/index.js.erb" />
         <option value="$PROJECT_DIR$/app/views/gists/_gist.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/pagination.js.coffee" />
+        <option value="$PROJECT_DIR$/db/seeds.rb" />
       </list>
     </option>
   </component>
@@ -205,6 +203,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="my_gists" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_gists" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_gists" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -738,13 +750,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="40" selection-start="512" selection-end="512" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2250">
@@ -850,13 +855,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/pagination.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="12" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/gists/_gist.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="42" selection-start="172" selection-end="172" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="270">
@@ -871,6 +869,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="1" selection-start="694" selection-end="694" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/gists/index.js.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="180">
@@ -878,9 +883,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/pagination.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="1" selection-start="694" selection-end="694" vertical-scroll-proportion="0.40366971" vertical-offset="66" max-vertical-offset="720">
+        <state line="9" column="12" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="56" selection-start="2802" selection-end="2802" vertical-scroll-proportion="0.8165138" vertical-offset="1071" max-vertical-offset="1725">
           <folding />
         </state>
       </provider>
