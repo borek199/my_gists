@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca6b9ce0-6b3a-4dcb-910f-fc9df8f839d5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/q" afterPath="$PROJECT_DIR$/q" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/gists/_gist.html.erb" afterPath="$PROJECT_DIR$/app/views/gists/_gist.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/gists_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/gists_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/gists/index.html.erb" afterPath="$PROJECT_DIR$/app/views/gists/index.html.erb" />
     </list>
     <ignored path="my_gists.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,7 +46,7 @@
       <file leaf-file-name="application.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="34" selection-start="620" selection-end="620" vertical-scroll-proportion="0.36697248" vertical-offset="0" max-vertical-offset="654">
+            <state line="17" column="17" selection-start="639" selection-end="639" vertical-scroll-proportion="0.38990825" vertical-offset="0" max-vertical-offset="654">
               <folding />
             </state>
           </provider>
@@ -865,7 +860,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="34" selection-start="620" selection-end="620" vertical-scroll-proportion="0.36697248" vertical-offset="0" max-vertical-offset="654">
+        <state line="17" column="17" selection-start="639" selection-end="639" vertical-scroll-proportion="0.38990825" vertical-offset="0" max-vertical-offset="654">
           <folding />
         </state>
       </provider>
