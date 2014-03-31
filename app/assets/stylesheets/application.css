@@ -13,30 +13,21 @@
  *= require bootstrap.css
  */
 
+html, body {
+    background: #eeeeee !important;
+    font-size: 18px !important;
+}
+
 .btn {
     color: white !important;
 }
 
-html {
-    font-size: 18px !important;
-}
-
-.container{
+.contain{
     padding: 10px;
-    background-color: lightgoldenrodyellow;
+
 }
 
-.table tr:nth-child(even) { background-color: #f7f7f7; }
-
-.table tr:hover{
-    background-color: #CCCCCC;
-}
-
-.previous_page:hover {
-    background: none;
-}
-
-.next_page:hover {
-    background: none;
+.col-lg-11{
+ margin-top: 50px;
 }
 
