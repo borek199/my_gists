@@ -26,7 +26,7 @@ html {
     background-color: lightgoldenrodyellow;
 }
 
-.table tr:nth-child(even) { background-color:#EEE; }
+.table tr:nth-child(even) { background-color: #f7f7f7; }
 
 .table tr:hover{
     background-color: #CCCCCC;

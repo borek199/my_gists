@@ -5,3 +5,12 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+require 'securerandom'
+
+75.times do
+  Gist.create(
+      :snippet => "My Snippet #{SecureRandom.hex(2)}",
+      :lang => "ruby",
+      :description => SecureRandom.hex(4)
+  )
+end

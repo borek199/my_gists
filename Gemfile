@@ -14,7 +14,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'pygments.rb', '0.5.4'
 gem 'redcarpet', '3.1.1'
-gem 'will_paginate', '~> 3.0'
+gem 'will_paginate', '~> 3.0.5'
 
 group :development, :test do
   gem 'sqlite3', '1.3.8'
@@ -25,3 +25,4 @@ group :production do
   gem 'pg', '0.15.1'
   gem 'rails_12factor', '0.0.2'
 end
+
