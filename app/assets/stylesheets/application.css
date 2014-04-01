@@ -32,11 +32,17 @@ html, body {
 }
 
 .col-lg-11{
- margin-top: 45px;
+    margin-top: 45px;
 }
 
 .search {
     float: right;
     padding: 10px;
+}
+
+.snippet{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
