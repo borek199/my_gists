@@ -47,5 +47,6 @@ pre{
     -o-text-overflow: ellipsis !important;
     -ms-text-overflow: ellipsis !important;
     display: block !important;
+    -moz-binding: url('ellipsis.xml#ellipsis') !important;    /* for Firefox; details here */
 }
 
