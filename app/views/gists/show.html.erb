@@ -11,6 +11,7 @@
 
 <p>
   <strong>Snippet:</strong>
+  <%= raw Pygments.highlight(@gist.snippet, lexer: @gist.lang) %>
 </p>
 
 

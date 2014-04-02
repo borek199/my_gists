@@ -40,9 +40,12 @@ html, body {
     padding: 10px;
 }
 
-.snippet{
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+pre{
+    white-space: pre !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    -o-text-overflow: ellipsis !important;
+    -ms-text-overflow: ellipsis !important;
+    display: block !important;
 }
 
