@@ -40,13 +40,14 @@ html, body {
     padding: 10px;
 }
 
-pre{
-    white-space: pre !important;
-    overflow: hidden !important;
-    text-overflow: ellipsis !important;
-    -o-text-overflow: ellipsis !important;
-    -ms-text-overflow: ellipsis !important;
-    display: block !important;
-    -moz-binding: url('ellipsis.xml#ellipsis') !important;    /* for Firefox; details here */
+.snippet .highlight pre{
+    white-space: pre;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    -ms-text-overflow: ellipsis;
+    display: block;
+    -moz-binding: url('ellipsis.xml#ellipsis');    /* for Firefox; details here */
 }
+
 

@@ -9,7 +9,7 @@
   <%= @gist.lang %>
 </p>
 
-<p>
+<p class="show">
   <strong>Snippet:</strong>
   <%= raw Pygments.highlight(@gist.snippet, lexer: @gist.lang) %>
 </p>
