@@ -22,4 +22,4 @@ Zaimplementowane Infinite Scrolling
 
 Wyszukiwarka po opisie gistów
 
-###Link do heroku: mygistsmborkowski.herokuapp.com
+###Link do heroku: http://mygistsmborkowski.herokuapp.com
