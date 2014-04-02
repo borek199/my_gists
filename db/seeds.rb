@@ -5,9 +5,8 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
-require 'securerandom'
 
-25.times do
+1.upto(25) do |i|
   Gist.create(
       :snippet => 'class BooksController < ApplicationController
 
@@ -105,5 +104,5 @@ require 'securerandom'
 end
 ',
       :lang => "java",
-      :description => "Opis #{SecureRandom.random_number}")
+      :description => "Opis #{i}")
 end
