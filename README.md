@@ -1,12 +1,14 @@
-Aplikacja My Gists
+#Aplikacja My Gists
 
-Dodane gemy:
+###Dodane gemy:
 
 gem 'pygments.rb', '0.5.4'
 
 gem 'will_paginate', '~> 3.0.5'
 
-Wykonane zadania:
+###Wykonane zadania:
+
+Zawijanie się tekstu gista przy zmniejszonym oknie
 
 Dodanie Bootstrapa
 
@@ -20,4 +22,4 @@ Zaimplementowane Infinite Scrolling
 
 Wyszukiwarka po opisie gistów
 
-Link do heroku: mygistsmborkowski.herokuapp.com
+###Link do heroku: mygistsmborkowski.herokuapp.com
